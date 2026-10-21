@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://www.thethreatlens.com"><img src="https://img.shields.io/badge/Website-thethreatlens.com-0b83c6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/manoharanmudaliar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/im_manoharan"><img src="https://img.shields.io/badge/X-@im__manoharan-0a0a0a?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <img src="https://img.shields.io/badge/Dubai,%20UAE-40b549?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Dubai, UAE">
 </p>
