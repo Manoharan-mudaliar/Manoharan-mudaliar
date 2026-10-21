@@ -28,7 +28,7 @@
 
 ### Currently
 
-Heads-down contributing to **ThreatLens Core** — the governed engine every ThreatLens surface runs on (enforcement, policy, audit, lineage). It's where data security, agentic governance, and assurance come together as one control plane.
+Heads-down contributing to **ThreatLens Core** — a durable, agentic **security-operations** engine for autonomous threat detection, investigation, and response. One of the products in the broader ThreatLens ecosystem.
 
 ### Focus areas
 
