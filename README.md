@@ -26,8 +26,6 @@
 
 > Bring your own models. Keep your data yours. Prove it with evidence.
 
-### Currently
-
 Heads-down contributing to **ThreatLens Core** — a durable, agentic **security-operations** engine for autonomous threat detection, investigation, and response. One of the products in the broader ThreatLens ecosystem.
 
 ### Focus areas
